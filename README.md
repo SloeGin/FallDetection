@@ -1,8 +1,7 @@
 # FallDetection
 
-Fall detection
+Dependance:
+openCV 2.4.9
 
-in C++
-
-openCV 2.4.9 dependance
-
+BackgroundSubtractorMOG2 moudle from:
+https://github.com/andrewssobral/bgslibrary
